@@ -1,0 +1,155 @@
+
+
+#playerTable tr td input, 
+#gameTable tr td input,
+#gameTable tr td select,
+#savePlayers, 
+.newPlayerRowDiv {
+	display: none;
+}
+#ui-datepicker-div {
+	background: #FFF;
+	border: 1px solid orange;
+	padding: 10px;
+}
+
+.emailUnconfirmed {
+	background: #FF530D;
+	border-radius: 10px;
+	padding: 10px;
+}
+.emailConfirmed {
+	background: #00FF00;
+	border-radius: 10px;
+	padding: 10px;
+}
+.emailUndesired {
+	background: #FF0000;
+	border-radius: 10px;
+	padding: 10px;
+}
+.blankRow {
+	height: 50px;
+}
+
+/* = Global Shiz
+-----------------------------------------------------------------------------*/
+.defaultMessage {
+	display: block;
+	position: fixed;
+	width: 80%;
+	z-index: 1000;
+	background: #EEE;
+	margin: 100px 10%;
+	min-height: 250px;
+	padding: 25px;
+}
+
+/* = Calendar Shiz
+-----------------------------------------------------------------------------*/
+.tm_day {
+	border: 1px solid #EEEEEE;
+	min-height: 75px !important; 
+}
+.tm_today {
+	background: #EEEEEE;
+}
+.tm_label {
+	font-weight: bold;
+}
+.tm_otherMonth {
+	color: #CCC;
+}
+.tm_addEventButton {
+	position: absolute;
+	top: -10px;
+	left: -10px;
+	z-index: 999;
+}
+.tm_viewEventButton {
+	max-width: 100%;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+/* = Games Shiz
+-----------------------------------------------------------------------------*/
+.gameRow:hover {
+	background: #FFF2C1;
+}
+
+.playerCard h3,
+.gameCard h3 {
+	margin-top: 0;
+	padding: 5px 2px;
+	color: #FFF;
+	width: 100%;
+	font-size: .9em;
+	background-color: #D95F47;
+}
+
+.playerCard,
+.gameCard {
+	overflow: hidden;
+	width: 21%;
+	float: left;
+	margin: 1.5%;
+	text-align: center;
+	background: #FFF2C1;
+	border: 2px solid #106153;
+	border-radius: 10px;
+}
+
+/* css for timepicker */
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { float: left; clear:left; padding: 0 0 0 5px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 45%; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; padding: 0 5px 0 0; }
+.ui-timepicker-rtl dl dt{ float: right; clear: right; }
+.ui-timepicker-rtl dl dd { margin: 0 45% 10px 10px; }
+
+/* = combobox stuff
+-----------------------------------------------------------------------------*/
+.form-search .combobox-container,
+.form-inline .combobox-container {
+  display: inline-block;
+  margin-bottom: 0;
+  vertical-align: top;
+}
+.combobox-selected .caret {
+  display: none;
+}
+/* :not doesn't work in IE8 */
+.combobox-container:not(.combobox-selected) .glyphicon-remove {
+  display: none;
+}
+.typeahead-long {
+  max-height: 300px;
+  overflow-y: auto;
+}
+.control-group.error .combobox-container .add-on {
+  color: #B94A48;
+  border-color: #B94A48;
+}
+.control-group.error .combobox-container .caret {
+  border-top-color: #B94A48;
+}
+.control-group.warning .combobox-container .add-on {
+  color: #C09853;
+  border-color: #C09853;
+}
+.control-group.warning .combobox-container .caret {
+  border-top-color: #C09853;
+}
+.control-group.success .combobox-container .add-on {
+  color: #468847;
+  border-color: #468847;
+}
+.control-group.success .combobox-container .caret {
+  border-top-color: #468847;
+}

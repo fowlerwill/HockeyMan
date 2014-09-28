@@ -1,0 +1,138 @@
+/*
+
+Theme Name: wp-bootstrap
+
+Theme URI: http://320press.com/wpbs
+
+Description: A simple responsive theme based on the Bootstrap framework. Includes multiple page templates, two different sidebars and a theme options panel.
+
+Version: 3.0
+
+Author: 320press
+
+Author URI: http://320press.com
+
+Tags: black, white, one-column, two-columns, flexible-width, custom-background, custom-colors, custom-menu, full-width-template, theme-options
+
+License: GNU General Public License v2.0 & Apache License 2.0
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html http://www.apache.org/licenses/LICENSE-2.0
+
+*/
+
+
+
+/* HEADS UP: Everything that you will normally find here can be found in the library/less/wp.less */
+
+
+
+#content {
+
+background: #FFFFFF;
+
+}
+
+.navbar {
+
+background: #1952a1;
+
+}
+
+.navbar-default .navbar-brand {
+
+color: #FFFFFF;
+
+}
+
+.navbar-default .navbar-brand:hover,
+
+.navbar-default .navbar-brand:focus {
+
+  color: #000;
+
+  background-color: transparent;
+
+}
+
+.navbar-default .navbar-text {
+
+  color: #000;
+
+}
+
+.navbar-default .navbar-nav > li > a {
+
+  color: #FFF;
+
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+
+.navbar-default .navbar-nav > li > a:focus {
+
+  color: #000;
+
+  background-color: transparent;
+
+}
+
+.navbar-default .navbar-nav > .active > a,
+
+.navbar-default .navbar-nav > .active > a:hover,
+
+.navbar-default .navbar-nav > .active > a:focus {
+
+  color: #000;
+
+  background-color: #e7e7e7;
+
+}
+
+.navbar-default .navbar-nav > .disabled > a,
+
+.navbar-default .navbar-nav > .disabled > a:hover,
+
+.navbar-default .navbar-nav > .disabled > a:focus {
+
+  color: #000;
+
+  background-color: transparent;
+
+}
+
+.ft-pg-blog-title {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.intro-image-crop {
+  width: 100%;
+  max-height: 150px;
+  overflow: hidden;
+}
+
+.intro-image-crop img {
+  width: 100%;
+}
+
+.ngg-slideshow { height: 186px; }
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+  .ngg-slideshow { height: 295px; }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  .ngg-slideshow { height: 386px; }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+  .ngg-slideshow { height: 480px; }
+}
+
+footer {
+  margin-bottom: 100px;
+}

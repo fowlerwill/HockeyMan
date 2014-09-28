@@ -1,0 +1,89 @@
+
+
+#playerTable tr td input, 
+#gameTable tr td input,
+#gameTable tr td select,
+#savePlayers, 
+.newPlayerRowDiv {
+	display: none;
+}
+#ui-datepicker-div {
+	background: #FFF;
+	border: 1px solid orange;
+	padding: 10px;
+}
+
+.emailUnconfirmed {
+	background: #FF530D;
+	border-radius: 10px;
+	padding: 10px;
+}
+.emailConfirmed {
+	background: #00FF00;
+	border-radius: 10px;
+	padding: 10px;
+}
+.emailUndesired {
+	background: #FF0000;
+	border-radius: 10px;
+	padding: 10px;
+}
+.blankRow {
+	height: 50px;
+}
+
+/* = Global Shiz
+-----------------------------------------------------------------------------*/
+.defaultMessage {
+	display: block;
+	position: fixed;
+	width: 80%;
+	z-index: 1000;
+	background: #EEE;
+	margin: 100px 10%;
+	min-height: 250px;
+	padding: 25px;
+}
+
+/* = Games Shiz
+-----------------------------------------------------------------------------*/
+.gameRow:hover {
+	background: #FFF2C1;
+}
+
+.playerCard h3,
+.gameCard h3 {
+	margin-top: 0;
+	padding: 5px 2px;
+	color: #FFF;
+	width: 100%;
+	font-size: .9em;
+	background-color: #D95F47;
+}
+
+.playerCard,
+.gameCard {
+	overflow: hidden;
+	width: 21%;
+	float: left;
+	margin: 1.5%;
+	text-align: center;
+	background: #FFF2C1;
+	border: 2px solid #106153;
+	border-radius: 10px;
+}
+
+/* css for timepicker */
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { float: left; clear:left; padding: 0 0 0 5px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 45%; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; padding: 0 5px 0 0; }
+.ui-timepicker-rtl dl dt{ float: right; clear: right; }
+.ui-timepicker-rtl dl dd { margin: 0 45% 10px 10px; }
+
+

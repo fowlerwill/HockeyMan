@@ -1,0 +1,1175 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"max"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"TeamMan",
+				"TeamManagerTeam"
+			],
+			[
+				"res",
+				"rescheduleSummaries"
+			],
+			[
+				"resch",
+				"rescheduleInvitations"
+			],
+			[
+				"invi",
+				"invitationDelay"
+			],
+			[
+				"max",
+				"maxMembers"
+			],
+			[
+				"timez",
+				"timezone"
+			],
+			[
+				"team",
+				"teamid"
+			],
+			[
+				"min",
+				"minMembers"
+			],
+			[
+				"summ",
+				"summaryDelay"
+			],
+			[
+				"in",
+				"invitationDelay"
+			],
+			[
+				"summa",
+				"summaryDelayInfo"
+			],
+			[
+				"invitationDe",
+				"invitationDelayInfo"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"col-",
+				"col-xs-12"
+			],
+			[
+				"time",
+				"timezoneDropdown"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"timz",
+				"timezoneLabel"
+			],
+			[
+				"timezon",
+				"timezoneRow"
+			],
+			[
+				"nam",
+				"nameValue"
+			],
+			[
+				"text",
+				"text-right"
+			],
+			[
+				"name",
+				"nameLabel"
+			],
+			[
+				"TeamM",
+				"TeamManagerCommon"
+			],
+			[
+				"row",
+				"rowAttendance"
+			],
+			[
+				"tex",
+				"text-right"
+			],
+			[
+				"coun",
+				"countOut"
+			],
+			[
+				"atte",
+				"attendance"
+			],
+			[
+				"mem",
+				"membersIn"
+			],
+			[
+				"memb",
+				"membersOut"
+			],
+			[
+				"formatJ",
+				"formatJustDate"
+			],
+			[
+				"atten",
+				"attendanceValue"
+			],
+			[
+				"invite",
+				"inviteEmailSendTime"
+			],
+			[
+				"even",
+				"eventModal"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"buildM",
+				"buildModal"
+			],
+			[
+				"table",
+				"tableDiv"
+			],
+			[
+				"beg",
+				"beginningOfTomorrow"
+			],
+			[
+				"getE",
+				"getEventObjects"
+			],
+			[
+				"getD",
+				"getDateTimeStartUTC"
+			],
+			[
+				"Team",
+				"TeamManagerMember"
+			],
+			[
+				"getMmeber",
+				"getMemberIds"
+			],
+			[
+				"formatD",
+				"formatDateTime"
+			],
+			[
+				"notes",
+				"notesInput"
+			],
+			[
+				"loca",
+				"locationInput"
+			],
+			[
+				"pm",
+				"pmLabel"
+			],
+			[
+				"form",
+				"formGroup"
+			],
+			[
+				"hour",
+				"hourInput"
+			],
+			[
+				"build",
+				"buildInputHour"
+			],
+			[
+				"selected",
+				"selectedMonth"
+			],
+			[
+				"year",
+				"yearInput"
+			],
+			[
+				"selec",
+				"selectedMonth"
+			],
+			[
+				"buildMon",
+				"buildInputMonth"
+			],
+			[
+				"mon",
+				"monthInput"
+			],
+			[
+				"aria",
+				"aria-hidden"
+			],
+			[
+				"mod",
+				"modal-dialog"
+			],
+			[
+				"moda",
+				"modalDialog"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"are",
+				"aria-hidden"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"tou",
+				"touchend"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"button",
+				"buttonGroup"
+			],
+			[
+				"bu",
+				"buttonGroup"
+			],
+			[
+				"nex",
+				"nextMonthButton"
+			],
+			[
+				"info",
+				"infoAlert"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"col",
+				"col-md-offset-2"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"this",
+				"thisMonth"
+			],
+			[
+				"end",
+				"endOfLastWeek"
+			],
+			[
+				"begi",
+				"beginningOfFirstWeek"
+			],
+			[
+				"set",
+				"setDate"
+			],
+			[
+				"find",
+				"findBeginningOfWeek"
+			],
+			[
+				"star",
+				"startOfMonth"
+			],
+			[
+				"st",
+				"startOfMonth"
+			],
+			[
+				"day",
+				"daysToSubtract"
+			],
+			[
+				"calen",
+				"calendarDiv"
+			],
+			[
+				"member",
+				"memberIDList"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"date",
+				"datetimeStart"
+			],
+			[
+				"setEm",
+				"setEmailConfirm"
+			],
+			[
+				"email",
+				"emailConfirm"
+			],
+			[
+				"warn",
+				"warningAlert"
+			],
+			[
+				"un",
+				"unserialize"
+			],
+			[
+				"user",
+				"user_meta_key  (variable)"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"TOP",
+				"topLeftAngleDiv"
+			],
+			[
+				"top",
+				"topLeftAngleDiv"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"membe",
+				"members"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"DateTim",
+				"DateTimeZone  (class)"
+			],
+			[
+				"no",
+				"noscript"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"register_plgin",
+				"register_plugin_scripts"
+			],
+			[
+				"pla",
+				"playersList"
+			],
+			[
+				"pl",
+				"player  (variable)"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"HockeyM",
+				"HockeyManGame"
+			],
+			[
+				"play",
+				"playerDetails"
+			],
+			[
+				"disp",
+				"displayPlayerModal"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"emai",
+				"emailconfirm"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"ac",
+				"actionsCell"
+			],
+			[
+				"Hoc",
+				"HockeyManCommonActions"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"dis",
+				"displayCards"
+			],
+			[
+				"app",
+				"append	.append"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"hi",
+				"hidden  (function)"
+			],
+			[
+				"gam",
+				"gameid"
+			],
+			[
+				"inp",
+				"inputForm"
+			],
+			[
+				"sub",
+				"submit	submit"
+			],
+			[
+				"addGam",
+				"displayAddGameModal"
+			],
+			[
+				"_",
+				"_REQUEST"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"face",
+				"fadeOut  (function)"
+			],
+			[
+				"Hockey",
+				"HockeyMan"
+			],
+			[
+				"bui",
+				"buildGames"
+			],
+			[
+				"ho",
+				"hockeyMan"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n/**\n * TeamManager Calendar Object\n */\nvar TeamManagerCalendar = function() {\n	var $ = jQuery;\n	var cal = $('#tm_eventsCal');\n	var dateNames = {\n		days : [ 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday' ],\n		dayabbrs : [ 'Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat' ],\n		months : [ 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December' ],\n		monthabbrs : [ 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec' ]\n	}\n	var inst = this;\n	var common = new TeamManagerCommon();\n\n	this.init = function() {\n		this.eventsList = this.getEvents();	\n		var today = new Date();\n		this.defineMonthAndBuildIt(today);\n		\n	}\n\n	this.defineMonthAndBuildIt = function(theDate) {\n\n		var startOfMonth = new Date(theDate.getFullYear(), theDate.getMonth());\n		var endOfMonth = new Date(theDate.getFullYear(), theDate.getMonth()+1);\n\n		endOfMonth.setDate(endOfMonth.getDate() -1 );\n\n		var beginningOfFirstWeek = inst.findBeginningOfWeek(startOfMonth);\n		var endOfLastWeek = inst.findEndOfWeek(endOfMonth);\n\n		inst.buildMonth(beginningOfFirstWeek, endOfLastWeek, theDate);\n	}\n\n	this.buildHeader = function(thisMonth) {\n		var monthRow = this.buildRow();\n		var month = dateNames.months[thisMonth.getMonth()];\n		var year = thisMonth.getFullYear();\n		var monthLabel = $(document.createElement('div'));\n		monthLabel.addClass('col-md-16 text-center')\n		monthLabel.append('<h2>'+month+' '+year+'</h2>');\n		monthRow.append(monthLabel);\n\n		var buttonGroup = $(document.createElement('div'));\n		buttonGroup.addClass('btn-group');\n\n		var prevMonthButton = common.buildButton(\"xs btn-default\", \"Prev Month\", inst.defineMonthAndBuildIt, new Date(thisMonth.getFullYear(), thisMonth.getMonth()-1));\n		var nextMonthButton = common.buildButton(\"xs btn-default\", \"Next Month\", inst.defineMonthAndBuildIt, new Date(thisMonth.getFullYear(), thisMonth.getMonth()+1));\n\n		buttonGroup.append(prevMonthButton, nextMonthButton);\n\n		cal.append(monthRow, buttonGroup);\n\n		var daysRow = this.buildRow();\n		for(var i = 0; i < 7; i++) {\n			dayLabel = $(document.createElement('div'));\n			dayLabel.addClass('tm_label col-md-2 text-center hidden-xs hidden-sm');\n			if(i === 0)\n				dayLabel.addClass('col-md-offset-1');\n			dayLabel.append(dateNames.days[i]);\n			daysRow.append(dayLabel);\n		}\n\n		cal.append(daysRow);\n\n	}\n\n	this.buildMonth = function(beginningOfFirstWeek, endOfLastWeek, thisMonth) {\n		cal.empty();\n		var i = 0;\n		this.buildHeader(thisMonth);\n		var row = this.buildRow();\n		for( var d = beginningOfFirstWeek; d.getTime() <= endOfLastWeek.getTime(); d.setDate(d.getDate() + 1)) {\n			if(i%7===0 && i > 0) {\n				cal.append(row);\n				row = this.buildRow();\n			} \n			var day = this.buildDay(d);\n			if(d.getMonth() != thisMonth.getMonth())\n				day.addClass('tm_otherMonth  hidden-xs hidden-sm');\n			if( i % 7 === 0  || i === 0 )\n				day.addClass('col-md-offset-1');\n			row.append( day );\n			i++;\n		}\n		if(!row.is(':empty'))\n			cal.append(row);\n	}\n\n	this.findEndOfWeek = function(date) {\n		var thisDate = new Date(date);\n		thisDate.setDate(thisDate.getDate() + 6 - thisDate.getDay() );\n		return thisDate;\n	}\n\n	this.findBeginningOfWeek = function(date) {\n		var thisDate = new Date(date);\n		thisDate.setDate(thisDate.getDate() - thisDate.getDay());\n		return thisDate;\n	}\n\n	this.buildRow = function() {\n		var row = $(document.createElement('div'));\n		row.addClass('row');\n		return row;\n	}\n\n	this.getEvents = function() {\n		var events = [];\n		for(id in teams) { if(teams.hasOwnProperty(id)) {\n			var eventList = teams[id].events;\n			for(var i=0; i<eventList.length; i++) {\n				eventList[i].team_id = id;\n				events.push(eventList[i]);\n			}\n		}}\n		return events;\n	}\n\n	this.viewEvent = function(theEvent) {\n		var eventModal;\n		if($('#'+theEvent.id).length > 0)\n			eventModal = $('#'+theEvent.id);\n		else\n			eventModal = common.buildModal(theEvent.id, \"<h3>\"+theEvent.description+\"</h3>\", \"<div class='eventBody'></div>\", common.buildButton(\"default btn-primary\", \"Do Something\", \"\", \"\") );\n\n		eventModal.modal();\n		$.ajax({\n			type : \"post\",\n			dataType : \"json\",\n			url : myAjax.ajaxurl,\n			beforeSend : function() {\n			    $('#'+theEvent.id).find('.eventBody').html(\"Loading...\");\n			},\n			data : {\n				action: \"get_event\", \n				id 	: theEvent.id\n			},\n			success: function(response) { \n				//console.log(theEvent.team_id);\n				var dateTime = new Date(response.datetimeStart*1000);\n\n				var rowTime = inst.buildRow();\n				\n				var timeLabel = $(document.createElement('div'));\n				timeLabel.addClass('col-xs-4 text-right');\n				timeLabel.append('<h3><small>Time</small></h3>');\n				var timeValue = $(document.createElement('div'));\n				timeValue.addClass('col-xs-12');\n				timeValue.append('<h3>'+inst.formatJustTime(dateTime)+'</h3>');\n				rowTime.append(timeLabel, timeValue);\n\n				var rowDate = inst.buildRow();\n				var dateLabel = $(document.createElement('div'));\n				dateLabel.addClass('col-xs-4 text-right');\n				dateLabel.append('<h3><small>Date</small></h3>');\n				var dateValue = $(document.createElement('div'));\n				dateValue.addClass('col-xs-12');\n				dateValue.append('<h3>'+inst.formatJustDate(dateTime)+'</h3>');\n				rowDate.append(dateLabel, dateValue);\n\n				var rowLocation = inst.buildRow();\n				var locationLabel = $(document.createElement('div'));\n				locationLabel.addClass('col-xs-4 text-right');\n				locationLabel.append('<h3><small>Location</small></h3>');\n				var locationValue = $(document.createElement('div'));\n				locationValue.addClass('col-xs-12');\n				locationValue.attr('style', 'padding-top: 27px;');\n				locationValue.append('<strong>'+response.details.location+'</strong>');\n				rowLocation.append(locationLabel, locationValue);\n\n				var rowNotes = inst.buildRow();\n				var notesLabel = $(document.createElement('div'));\n				notesLabel.addClass('col-xs-4 text-right');\n				notesLabel.append('<h3><small>Notes</small></h3>');\n				var notesValue = $(document.createElement('div'));\n				notesValue.addClass('col-xs-12');\n				notesValue.attr('style', 'padding-top: 27px;');\n				notesValue.append('<strong>'+response.details.notes+'</strong>');\n				rowNotes.append(notesLabel, notesValue);\n\n				var rowAttendance = inst.buildRow();\n				rowAttendance\n				var attendanceLabel = $(document.createElement('div'));\n				attendanceLabel.addClass('col-xs-4 text-right');\n				attendanceLabel.append('<h3><small>Invitation Information</small></h3>');\n				var attendanceValue = $(document.createElement('div'));\n				attendanceValue.addClass('col-xs-12');\n				var inviteEmailSendTime = new Date(dateTime.getTime() - (teams[theEvent.team_id].settings.invitation_delay*1000));\n				//console.log('dateTime of event: ' + dateTime.getTime() + ' invite email time: ' + inviteEmailSendTime.getTime());\n				var summaryEmailSendTime = new Date(dateTime.getTime() - (teams[theEvent.team_id].settings.summary_delay*1000));\n				var now = new Date();\n\n				if(now.getTime() > inviteEmailSendTime.getTime()){\n					var countIn=0, countOut=0, countNR=0;\n					for(var id in response.attendance){ if(response.attendance.hasOwnProperty(id)) {\n						switch (response.attendance[id]) {\n							case 0:\n								countOut++;\n								break;\n							case 1:\n								countIn++;\n								break;\n							case 2:\n								countNR++;\n								break;\n						}\n\n					}} \n					attendanceValue.append('<h3><small>Confirmed In:</small> '+countIn+'</h3>');\n					attendanceValue.append('<h3><small>Confirmed Out:</small> '+countOut+'</h3>');\n					attendanceValue.append('<h3><small>No Response:</small> '+countNR+'</h3>');\n					\n					if(now.getTime() < summaryEmailSendTime.getTime()) {\n						var summaryEmail = inst.buildRow();\n						summaryEmail.append('<strong>Summary will be sent at: '+inst.formatJustTime(summaryEmailSendTime)+' '+inst.formatJustDate(summaryEmailSendTime)+'</strong>');\n						attendanceValue.append(summaryEmail);\n					}\n					\n				} else {\n					attendanceValue.attr('style', 'padding-top: 27px');\n					attendanceValue.append('<strong style=\"margin-top:27px;\">Invite will be sent at: '+inst.formatJustTime(inviteEmailSendTime)+' '+inst.formatJustDate(inviteEmailSendTime)+'</strong>');\n				}\n\n				rowAttendance.append(attendanceLabel, attendanceValue);\n\n				//if the invitation has been sent\n				//	list the numbers in / out / no response\n				//else\n				//	list the time that the invitation will be sent \n				//	teams[theEvent.team_id].settings.invitation_delay\n\n				//attendees.append('<h3></h3>');\n				\n\n				$('#'+theEvent.id).find('.eventBody').empty().append(rowTime, rowDate, rowLocation, rowNotes, rowAttendance);\n\n\n			    //$('#'+theEvent.id).find('.eventBody').html(\"<h3>Date/Time of the Event: \"+dateTime+\"</h3><h3>Notes</h3>\"+response.details.notes+\"<h3>Members Invited: \"+response.attendance.length+\"</h3>\");\n			},\n			error: function(data) {	console.log(\"Error Retrieving Event \"); }\n		}).fail(function( jqXHR, textStatus ) { alert( \"Error making Request \"+textStatus ); });\n\n		//console.log(thisEvent);\n	}\n\n	this.formatJustTime = function(dateTime) {\n		var hr = dateTime.getHours();\n		var amPm = 'AM';\n		if(hr >= 12) {\n			if(hr != 12)\n				hr = (hr - 12);\n			amPm = 'PM';\n		} else {\n			if(hr == 0)\n				hr = '00';\n		}\n		return hr+':'+((dateTime.getMinutes() == 0) ? '00': dateTime.getMinutes())+' '+amPm;\n	}\n\n	this.formatJustDate = function(dateTime) {\n		return dateTime.getDate()+' '+dateNames.months[dateTime.getMonth()]+', '+dateTime.getFullYear();\n	}\n\n	this.buildDay = function(date) {\n		var today = new Date();\n		var beginningOfToday = new Date(today.getFullYear(), today.getMonth(), today.getDate());\n		\n		//console.log(beginningOfToday);\n		var date = new Date(date);\n\n		var beginningOfNextDay = new Date(date.getFullYear(), date.getMonth(), date.getDate());\n		beginningOfNextDay.setDate(beginningOfNextDay.getDate()+1);\n\n		var day = $(document.createElement('div'));\n		if(beginningOfToday.getTime() === date.getTime())\n			day.addClass('tm_today');\n		day.addClass('tm_day');\n		day.addClass('col-md-2');\n		day.attr('data-date', date.getTime());\n		day.append(date.getDate());\n\n		for(var i=0; i<inst.eventsList.length; i++) {\n			//console.log('day: ' + beginningOfToday.getTime()/1000 +' vs '+inst.eventsList[i].datetimeStart);\n\n			if(inst.eventsList[i].datetimeStart > date.getTime()/1000 &&\n				inst.eventsList[i].datetimeStart < beginningOfNextDay.getTime()/1000) {\n				day.append(common.buildButton(\"xs btn-default tm_viewEventButton\", inst.eventsList[i].description, inst.viewEvent, inst.eventsList[i]))\n			}\n		}\n\n		day.on({\n			mouseenter: function() {\n				var addEventButton = common.buildButton(\"sm btn-default tm_addEventButton\", \"<span class='glyphicon glyphicon-plus'></span>\", inst.dispAddEvent, date)\n\n				$(this).append(addEventButton);\n			},\n			mouseleave: function() {\n				$(this).children('.tm_addEventButton').remove();\n			},\n			touchstart: function(e) {\n				if($(e.target).hasClass('glyphicon')) {\n					e.stopPropagation;\n					console.log('success');\n				}\n				else\n					$(this).children('.tm_addEventButton').remove();\n			},\n			touchend: function() {\n				var addEventButton = common.buildButton(\"sm btn-default tm_addEventButton\", \"<span class='glyphicon glyphicon-plus'></span>\", inst.dispAddEvent, date)\n\n				$(this).append(addEventButton);\n			},\n		});\n		return day;\n	}\n\n	this.buildInputMonth = function(monthNumber) {\n		var formGroup = $(document.createElement('div'));\n		formGroup.addClass('form-group col-sm-5');\n		var label = $(document.createElement('label'));\n		label.attr({\n			class: \"control-label\",\n			for: \"monthInput\"\n		});\n		label.append('Month: ');\n		var monthInput = $(document.createElement('select'));\n		monthInput.addClass('form-control');\n		monthInput.attr('id', 'monthInput');\n		for(var i=0; i<12; i++) {\n			var option = $(document.createElement('option'));\n			option.attr('value', i);\n			if(i == monthNumber)\n				option.attr('selected', 'selected');\n			option.append(dateNames.months[i]);\n			monthInput.append(option);\n		}\n		formGroup.append(label, monthInput);\n\n		monthInput.change(function() {\n			var dayInput = $('#dayInput');\n			dayInput.empty();\n			var monthSelected = $('#monthInput').find(\":selected\").attr('value');\n			var selectedMonth = new Date(2014, monthSelected);\n			var i = 1;\n			while(monthSelected == selectedMonth.getMonth()) {\n				var option = $(document.createElement('option'));\n				option.attr('value', i);\n				option.append(i);\n				dayInput.append(option);\n				i++;\n				selectedMonth.setDate(selectedMonth.getDate() + 1)\n			}\n		});\n\n		return formGroup;\n	}\n\n	this.buildInputDay = function(theDate) {\n		var formGroup = $(document.createElement('div'));\n		formGroup.addClass('form-group col-sm-5');\n		var label = $(document.createElement('label'));\n		label.attr({\n			class: \"control-label\",\n			for: \"dayInput\"\n		});\n		label.append('Day: ');\n		var dayInput = $(document.createElement('select'));\n		dayInput.addClass('form-control');\n		dayInput.attr('id', 'dayInput');\n		var selectedMonth = parseInt(theDate.getMonth());\n		var i = 1;\n		var d = new Date(theDate.getFullYear(), selectedMonth);\n		while(d.getMonth() == selectedMonth) {\n			var option = $(document.createElement('option'));\n			option.attr('value', i);\n			if(i == theDate.getDate())\n				option.attr('selected', 'selected');\n			option.append(i);\n			dayInput.append(option);\n			d.setDate(d.getDate() + 1);\n			i++;\n		}\n		formGroup.append(label, dayInput);\n		return formGroup;\n	}\n\n	this.buildInputYear = function(theDate) {\n		theDate = new Date(theDate.getTime());\n		var formGroup = $(document.createElement('div'));\n		formGroup.addClass('form-group col-sm-5');\n		var label = $(document.createElement('label'));\n		label.attr({\n			class: \"control-label\",\n			for: \"yearInput\"\n		});\n		label.append('Year: ');\n		var yearInput = $(document.createElement('select'));\n		yearInput.addClass('form-control');\n		yearInput.attr('id', 'yearInput');\n		for(var i = 1; i < 3; i++) {\n			var option = $(document.createElement('option'));\n			option.attr('value', theDate.getFullYear());\n			if(i == theDate.getFullYear())\n				option.attr('selected', 'selected');\n			option.append(theDate.getFullYear());\n			yearInput.append(option);\n			theDate.setDate(theDate.getDate() + 365);\n		}\n		formGroup.append(label, yearInput);\n		return formGroup;\n	}\n\n	this.buildInputHour = function() {\n		var formGroup = $(document.createElement('div'));\n		formGroup.addClass('form-group col-sm-5');\n		var label = $(document.createElement('label'));\n		label.attr({\n			class: \"control-label\",\n			for: \"hourInput\"\n		});\n		label.append('Hour: ');\n		var hourInput = $(document.createElement('select'));\n		hourInput.addClass('form-control');\n		hourInput.attr('id', 'hourInput');\n		for(var i=1; i<13; i++) {\n			var option = $(document.createElement('option'));\n			option.attr('value', i);\n			option.append(i);\n			hourInput.append(option);\n		}\n		formGroup.append(label, hourInput);\n		return formGroup;\n	}\n\n	this.buildInputMinute = function() {\n		var formGroup = $(document.createElement('div'));\n		formGroup.addClass('form-group col-sm-5');\n		var label = $(document.createElement('label'));\n		label.attr({\n			class: \"control-label\",\n			for: \"minuteInput\"\n		});\n		label.append('Minute: ');\n		var minuteInput = $(document.createElement('select'));\n		minuteInput.addClass('form-control');\n		minuteInput.attr('id', 'minuteInput');\n		for(var i=0; i<60; i+=15) {\n			var option = $(document.createElement('option'));\n			if(i == 0) {\n				option.append(\"00\");\n				option.attr('value', \"00\");\n			}\n			else {\n				option.append(i);\n				option.attr('value', i);\n			}\n			minuteInput.append(option);\n		}\n		formGroup.append(label, minuteInput);\n		return formGroup;\n	}\n	\n	this.buildInputAmPm = function() {\n		var formGroup = $(document.createElement('div'));\n		formGroup.addClass('form-group col-sm-5');\n\n		var amLabel = $(document.createElement('label'));\n		amLabel.attr({\n			class: \"radio\",\n			for: \"amInput\"\n		});\n		amLabel.append('am');\n		var amInput = $(document.createElement('input'));\n		amInput.attr({\n			id: 'amInput',\n			name: 'amPmInput',\n			type: 'radio',\n			value: 'am'});\n		amLabel.append(amInput);\n\n		var pmLabel = $(document.createElement('label'));\n		pmLabel.attr({\n			class: \"radio\",\n			for: \"pmInput\"\n		});\n		pmLabel.append('pm');\n		var pmInput = $(document.createElement('input'));\n		pmInput.attr({\n			id: 'pmInput',\n			name: 'amPmInput',\n			type: 'radio',\n			checked: 'checked',\n			value: 'pm'});\n		pmLabel.append(pmInput);\n\n		formGroup.append(amLabel, pmLabel);\n		return formGroup;\n	}\n\n	this.buildInputText = function(name) {\n		var formGroup = $(document.createElement('div'));\n		formGroup.addClass('form-group');\n		var label = $(document.createElement('label'));\n		label.attr({\n			class: \"control-label\",\n			for: name\n		});\n		label.append(name.charAt(0).toUpperCase()+name.slice(1)+': ');\n		var input = $(document.createElement('input'));\n		input.attr({\n			type: \"text\",\n			id: name+\"Input\",\n			name: name,\n			class: \"form-control\"\n		});\n		formGroup.append(label, input);\n		return formGroup;\n	}\n\n	this.buildInputTeam = function() {\n		\n		var formGroup = $(document.createElement('div'));\n		formGroup.addClass('form-group col-sm-5');\n		var label = $(document.createElement('label'));\n		label.attr({\n			class: \"control-label\",\n			for: 'teamInput'\n		});\n		label.append('Team: ');\n		var teamInput = $(document.createElement('select'));\n		teamInput.addClass('form-control');\n		teamInput.attr('id', 'teamInput');\n		for(var id in teams) { if(teams.hasOwnProperty(id)) {\n			var option = $(document.createElement('option'));\n			option.attr('value', id);\n			var name = teams[id]['settings']['name'];\n			option.append(name);\n			teamInput.append(option);\n		}}\n		formGroup.append(label, teamInput);\n		return formGroup;\n	}\n\n	this.dispAddEvent = function(theDate) {\n		\n\n		var inputForm = $(document.createElement('form'));\n		inputForm.attr('id', 'addEventForm');\n		var formInputs = [];\n		//okay let's build the date and time input forms.\n		formInputs['year'] = inst.buildInputYear(theDate);\n		formInputs['month'] = inst.buildInputMonth(theDate.getMonth());\n		formInputs['day'] = inst.buildInputDay(theDate);\n\n		formInputs['hour'] = inst.buildInputHour();\n		formInputs['minute'] = inst.buildInputMinute();\n		formInputs['ampm'] = inst.buildInputAmPm();\n\n		formInputs['description'] = inst.buildInputText('description');\n		formInputs['description'].addClass('col-sm-10');\n		formInputs['team'] = inst.buildInputTeam();\n		formInputs['location'] = inst.buildInputText('location');\n\n		var notesInput = $(document.createElement(\"textarea\"));\n			notesInput.attr({\n				rows: 4,\n				name: \"notes\",\n				id: \"notesInput\",\n				class: \"form-control\" \n			});\n		var formGroup = $(document.createElement('div'));\n		formGroup.addClass('form-group');\n		var label = $(document.createElement('label'));\n		label.attr({\n			class: \"control-label\",\n			for: name\n		});\n		label.append('Event Notes: ');\n		formGroup.append(label, notesInput);\n\n		formInputs['notes'] = formGroup;\n\n		formInputs['teamid'] = $(document.createElement(\"input\"));\n			formInputs['teamid'].attr({\n				type: \"hidden\",\n				name: \"teamid\" \n			});\n\n		for (var input in formInputs) {	if (formInputs.hasOwnProperty(input)) { \n				inputForm.append(formInputs[input]);\n			}}\n\n		var title = \"<h3>Add event on \"+dateNames.days[theDate.getDay()]+ \", \" +dateNames.months[theDate.getMonth()] +\" \"+ theDate.getDate()+\"</h3>\";\n		$('body').append(common.buildModal(theDate.getTime(), title, inputForm, common.buildButton(\"default btn-primary\", \"Save Changes\", inst.addEvent, theDate.getTime())));\n    	$('#'+theDate.getTime()).modal();\n	}\n\n	this.formatDateTime = function(year, month, day, hour, minute, amPm) {\n		\n		if(amPm == \"am\") {\n			if(hour == 12)\n				hour = \"00\";\n			else if(hour < 10) {\n				hour = \"0\"+hour;\n			}\n		} else if(hour != 12) {\n			hour = 12 + parseInt(hour);\n		}\n		return new Date(year, month, day, hour, minute);\n	} \n\n	/**\n	 * Add a game.\n	 * @param {[type]} data [description]\n	 */\n	this.addEvent = function(theId) {\n		event.stopPropagation();\n		//event.preventDefault();\n\n		var data = [];\n\n		var year 	= $('#yearInput').val();\n		var month 	= $('#monthInput').val();\n		var day 	= $('#dayInput').val();\n		var hour 	= $('#hourInput').val();\n		var minute 	= $('#minuteInput').val();\n		var amPm 	= $('input[name=\"amPmInput\"]:checked').val();\n\n		var date = inst.formatDateTime(year, month, day, hour, minute, amPm);\n\n		data.dateTime 	= date.toUTCString();\n		data.teamid 	= $('#teamInput').val();\n		data.description= $('#descriptionInput').val();\n		data.location 	= $('#locationInput').val();\n		data.notes 		= $('#notesInput').val();\n\n		$.ajax({\n			type : \"post\",\n			dataType : \"json\",\n			url : myAjax.ajaxurl,\n			data : {\n				action: \"add_event\", \n				dateTime 	: data.dateTime, \n				location 	: data.location,\n				description : data.description,\n				notes 		: data.notes,\n				teamid 		: data.teamid\n			},\n			success: function(response) {\n				$('#'+theId).find('.modal-body').empty().append('<h1 class=\"text-center\">Event Saved</h1>');\n				window.setTimeout(hideModal, 1500);\n				function hideModal() {\n					$('#'+theId).modal('hide');\n				}\n				teams[data.teamid].events.push(response);\n				var dayOfEvent = inst.formatDateTime(year, month, day, '00', '00', 'am');\n				$(\"[data-date='\"+dayOfEvent.toUTCString()+\"']\").append(common.buildButton(\"xs btn-default tm_viewEventButton\", response.description, inst.viewEvent, response.id));\n\n			},\n			error: function(data) {\n				console.log(\"Error Adding Event \"+data);\n			}\n		}).fail(function( jqXHR, textStatus ) { alert( \"Error making Request \"+textStatus ); });\n	}\n\n}\n\nvar TeamManagerCommon = function() {\n\n	var $ = jQuery;\n\n	this.buildModal = function(theId, theTitle, body, affirmButton) {\n\n		var modal = $(document.createElement('div'));\n		modal.attr({ \n			class: \"modal fade\",\n			id: theId,\n			tabindex: \"-1\",\n			role: \"dialog\",\n			\"aria-labelledby\": \"myModalLabel\",\n			\"aria-hidden\": \"true\"\n		 });\n		var modalDialog = $(document.createElement('div'));\n		modalDialog.addClass('modal-dialog');\n		var modalContent = $(document.createElement('div'));\n		modalContent.addClass('modal-content');\n		var modalHeader = $(document.createElement('div'));\n		modalHeader.addClass('modal-header');\n		var dismissButton = $(document.createElement('button'));\n		dismissButton.attr({\n			type: \"button\",\n			class: \"close\",\n			\"data-dismiss\": \"modal\",\n			\"aria-hidden\": \"true\",\n		});\n		dismissButton.append('&times;');\n		var title = '<h4 class=\"modal-title\" id=\"myModalLabel\">'+theTitle+'</h4>';\n		modalHeader.append(dismissButton, title);\n		var modalBody = $(document.createElement('div'));\n		modalBody.addClass('modal-body');\n		modalBody.append(body);\n		var modalFooter = $(document.createElement('div'));\n		modalFooter.addClass('modal-footer');\n		var closeButton = $(document.createElement('button'));\n		closeButton.attr({\n			type: \"button\",\n			class: \"btn btn-default\",\n			\"data-dismiss\": \"modal\",\n		});\n		closeButton.append('Close');\n		var saveButton =  affirmButton;\n\n		modalFooter.append(closeButton, saveButton);\n		modalContent.append(modalHeader, modalBody, modalFooter);\n		modalDialog.append(modalContent);\n		modal.append(modalDialog);\n		return modal;\n	}\n\n	this.buildButton = function(size, contents, buttonFunction, param) {\n		var button = $(document.createElement('button'));\n		button.addClass('btn btn-'+size);\n		button.attr('type', 'button');\n		button.append(contents);\n		button.on('click touchend', function() { \n			buttonFunction(param); \n		});\n		return button;\n	}\n}\n\n//TODO:: BUILD MODAL HANDLER\n\n/**\n * TeamManager Team Object\n */\nvar TeamManagerTeam = function() {\n	var inst = this;\n	var $ = jQuery;\n	var common = new TeamManagerCommon();\n\n	this.init = function() {\n		for(var teamId in teams){ if(teams.hasOwnProperty(teamId)) {\n			$('#tm_teamsPlace').append(inst.buildCollapsable(teamId, teams[teamId]));\n		}}\n	}\n\n	this.buildTeamTable = function(teamId, teamMembers) {\n		var tableDiv = $(document.createElement('div'));\n		tableDiv.addClass('table-responsive');\n\n		var table = $(document.createElement('table'));\n		table.attr({\n			class: 'table table-condensed table-hover',\n			id: teamId+'-members'\n		});\n		tableDiv.append(table);\n		\n		var thead = $(document.createElement('thead'));\n		var theadRow = $(document.createElement('tr'));\n		theadRow.append('<td colspan=\"2\">Name</td><td>Phone</td><td>Email</td><td>Position</td>');\n		thead.append(theadRow);\n		table.append(thead);\n\n		for(var i=0; i<teamMembers.length; i++) {\n			var row = $(document.createElement('tr'));\n			row.attr('id', teamMembers[i].id);\n			var fname = $(document.createElement('td'));\n			fname.append(teamMembers[i].details['fname']);\n			var lname = $(document.createElement('td'));\n			lname.append(teamMembers[i].details['lname']);\n			var phone = $(document.createElement('td'));\n			phone.append(teamMembers[i].details['phone']);\n			var email = $(document.createElement('td'));\n			email.append(teamMembers[i].details['email']);\n			var position = $(document.createElement('td'));\n			position.append(teamMembers[i].details['position']);\n\n			if(teamMembers[i].details['emailConfirm'] == 2)\n				row.addClass('danger');\n			else if(teamMembers[i].details['emailConfirm'] != 1)\n				row.addClass('warning');\n			row.append(fname, lname, phone, email, position);\n			table.append(row);\n		}\n		return tableDiv;\n	}\n\n	this.buildCollapsable = function(teamId, theTeam) {\n		var panel = $(document.createElement('div'));\n		panel.addClass('panel panel-default');\n		var panelHeading = $(document.createElement('div'));\n		panelHeading.addClass('panel-heading');\n		var panelTitle = $(document.createElement('h3'));\n		panelTitle.append('<a data-toggle=\"collapse\" data-parent=\"#tm_teamsPlace\" href=\"#collapse'+teamId+'\">'+theTeam.settings.name+'</a>');\n		\n		//Add some buttons for settings & add player.\n		var settingsButton = common.buildButton(\"btn btn-default\", '<span class=\"glyphicon glyphicon-cog\"></span>', inst.viewSettings, teamId);\n		var addMemberButton = common.buildButton(\"btn btn-default\", 'Add Member', inst.addMember, teamId);\n\n		panelTitle.append(settingsButton, addMemberButton);\n\n		panelHeading.append(panelTitle);\n		var panelCollapse = $(document.createElement('div'));\n		panelCollapse.attr({\n			id: 'collapse'+teamId,\n			class: 'panel-collapse collapse in'\n		});\n		var panelBody = $(document.createElement('div'));\n		panelBody.addClass('panel-body');\n		panelBody.append(inst.buildTeamTable(teamId, theTeam.members));\n		panelCollapse.append(panelBody);\n		panel.append(panelHeading, panelCollapse);\n		return panel;\n	}\n\n	this.addMember = function() {\n		$('#addMember-'+teamId).remove();\n\n		var modalBody = $(document.createElement('form'));\n		modalBody.attr({\n			class: 'form-horizontal',\n			role: 'form',\n			'data-teamId': teamId\n		});\n\n	}\n\n	this.saveMember = function() {\n\n	}\n\n	this.viewSettings = function(teamId) {\n\n		$('#'+teamId).remove();\n\n		var modalBody = $(document.createElement('form'));\n		modalBody.attr({\n			class: 'form-horizontal',\n			role: 'form',\n			'data-teamId': teamId\n		});\n\n		var nameRow = $(document.createElement('div'));\n		nameRow.addClass('form-group');\n		var nameLabel = $(document.createElement('label'));\n		nameLabel.addClass('col-xs-4 control-label');\n		nameLabel.attr('for', teamId+'name');\n		nameLabel.append('Team Name:');\n		var nameValue = $(document.createElement('div'));\n		nameValue.addClass('col-xs-12');\n		nameValue.append('<input type=\"text\" class=\"form-control\" id=\"'+teamId+'name\" value=\"'+teams[teamId].settings.name+'\">');\n		nameRow.append(nameLabel, nameValue);\n		modalBody.append(nameRow);\n\n		var timezoneRow = $(document.createElement('div'));\n		timezoneRow.addClass('form-group');\n		var timezoneLabel = $(document.createElement('label'));\n		timezoneLabel.addClass('col-xs-4 control-label');\n		timezoneLabel.attr('for', teamId+'timezoneDropdown');\n		timezoneLabel.append('Timezone:');\n\n		var timezoneValue = $(document.createElement('div'));\n		timezoneValue.addClass('col-xs-12');\n		timezoneDropdown = $(document.createElement('select'));\n		timezoneDropdown.attr({\n			class: 'form-control col-xs-12',\n			id: teamId+'timezoneDropdown',\n			name: teamId+'timezoneDropdown'\n		});\n		$.ajax({\n			type : \"post\",\n			dataType : \"json\",\n			url : myAjax.ajaxurl,\n			data : {\n				action: \"get_timezones\"\n			},\n			success: function(response) {\n				var timezonesList = response;\n				for(var i=0; i<timezonesList.length; i++) {\n					var tzOption = $(document.createElement('option'));\n					tzOption.attr('value', timezonesList[i].value);\n					if(teams[teamId].settings.timezone == timezonesList[i].value)\n						tzOption.attr('selected', 'selected');\n					tzOption.append(timezonesList[i].eng);\n					timezoneDropdown.append(tzOption);\n				}\n			}\n		}).done(function() {\n			timezoneDropdown.combobox();\n		});\n		timezoneValue.append(timezoneDropdown);\n		timezoneRow.append(timezoneLabel, timezoneValue);\n		modalBody.append(timezoneRow);\n		//timezoneDropdown.combobox();\n\n		var invitationDelayRow = $(document.createElement('div'));\n		invitationDelayRow.addClass('form-group');\n		var invitationDelayLabel = $(document.createElement('label'));\n		invitationDelayLabel.addClass('col-xs-4 control-label');\n		invitationDelayLabel.attr('for', teamId+'invitationDelay');\n		invitationDelayLabel.append('Invitation Sent:');\n		var invitationDelayValue = $(document.createElement('div'));\n		invitationDelayValue.addClass('col-xs-2');\n		invitationDelayValue.append('<input type=\"text\" class=\"form-control\" id=\"'+teamId+'invitationDelay\" value=\"'+teams[teamId].settings.invitation_delay/60/60+'\">');\n		var invitationDelayInfo = $(document.createElement('div'));\n		invitationDelayInfo.addClass('col-xs-10');\n		invitationDelayInfo.append('<h3 class=\"control-label\" style=\"text-align:left;\"><small>hours before event</small></h3>');\n		invitationDelayRow.append(invitationDelayLabel, invitationDelayValue, invitationDelayInfo);\n		modalBody.append(invitationDelayRow);\n\n		var summaryDelayRow = $(document.createElement('div'));\n		summaryDelayRow.addClass('form-group');\n		var summaryDelayLabel = $(document.createElement('label'));\n		summaryDelayLabel.addClass('col-xs-4 control-label');\n		summaryDelayLabel.attr('for', teamId+'invitationDelay');\n		summaryDelayLabel.append('Summary Sent:');\n		var summaryDelayValue = $(document.createElement('div'));\n		summaryDelayValue.addClass('col-xs-2');\n		summaryDelayValue.append('<input type=\"text\" class=\"form-control\" id=\"'+teamId+'summaryDelay\" value=\"'+teams[teamId].settings.summary_delay/60/60+'\">');\n		var summaryDelayInfo = $(document.createElement('div'));\n		summaryDelayInfo.addClass('col-xs-10');\n		summaryDelayInfo.append('<h3 class=\"control-label\" style=\"text-align:left;\"><small>hours before event</small></h3>');\n		summaryDelayRow.append(summaryDelayLabel, summaryDelayValue, summaryDelayInfo);\n		modalBody.append(summaryDelayRow);\n\n		var maxMembersRow = $(document.createElement('div'));\n		maxMembersRow.addClass('form-group');\n		var maxMembersLabel = $(document.createElement('label'));\n		maxMembersLabel.addClass('col-xs-4 control-label');\n		maxMembersLabel.attr('for', teamId+'minMembers');\n		maxMembersLabel.append('Max # Per Event:');\n		var maxMembersValue = $(document.createElement('div'));\n		maxMembersValue.addClass('col-xs-2');\n		maxMembersValue.append('<input type=\"text\" class=\"form-control\" id=\"'+teamId+'maxMembers\" value=\"'+teams[teamId].settings.max_members+'\">');\n		maxMembersRow.append(maxMembersLabel, maxMembersValue);\n		modalBody.append(maxMembersRow);\n\n		var minMembersRow = $(document.createElement('div'));\n		minMembersRow.addClass('form-group');\n		var minMembersLabel = $(document.createElement('label'));\n		minMembersLabel.addClass('col-xs-4 control-label');\n		minMembersLabel.attr('for', teamId+'minMembers');\n		minMembersLabel.append('Min # Per Event:');\n		var minMembersValue = $(document.createElement('div'));\n		minMembersValue.addClass('col-xs-2');\n		minMembersValue.append('<input type=\"text\" class=\"form-control\" id=\"'+teamId+'minMembers\" value=\"'+teams[teamId].settings.min_members+'\">');\n		minMembersRow.append(minMembersLabel, minMembersValue);\n		modalBody.append(minMembersRow);\n\n		var modal = common.buildModal(teamId, '<h3>'+teams[teamId].settings.name+'</h3>', modalBody, common.buildButton(\"default btn-primary\", \"Save Changes\", inst.saveSettings, modalBody));\n		$('body').append(modal);\n		modal.modal();\n	}\n\n	this.saveSettings = function(form) {\n		var teamId = form.attr('data-teamId');\n		//first thing to do is to collect the data from each input:\n		var teamName, timezone, invitationDelay, summaryDelay, maxMembers, minMembers;\n		teamName = form.children().find('#'+teamId+'name').val();\n		timezone = form.children().find('#'+teamId+'timezoneDropdown').val();\n		invitationDelay = form.children().find('#'+teamId+'invitationDelay').val();\n		summaryDelay = form.children().find('#'+teamId+'summaryDelay').val();\n		maxMembers = form.children().find('#'+teamId+'maxMembers').val();\n		minMembers = form.children().find('#'+teamId+'minMembers').val();\n\n		$.ajax({\n			type : \"post\",\n			dataType : \"json\",\n			url : myAjax.ajaxurl,\n			data : {\n				action: \"save_team_settings\",\n				teamId: teamId, \n				teamName: teamName,\n				timezone: timezone,\n				invitationDelay: invitationDelay,\n				summaryDelay: summaryDelay,\n				maxMembers: maxMembers,\n				minMembers: minMembers\n			},\n			success: function(response) {\n				console.log(response);\n				if(response['response'] == \"Success\") {\n					$('#myModalLabel').empty().after('<div class=\"progress progress-striped active\"><div class=\"progress-bar\"  role=\"progressbar\" aria-valuenow=\"100\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 100%\"></div></div>');\n					$('#'+teamId).find('.modal-body').empty().append('<h1 class=\"text-center\">Team Settings Saved</h1>');\n					var hm = function hideModal() {\n						$('#'+teamId).modal('hide');\n					}\n					window.setTimeout(hm, 1500);\n				\n					$('#'+teamId).on('hidden.bs.modal', function () {\n					    location.reload();\n					});\n				} else {\n					form.after('<div class=\"alert alert-danger\"><p>'+response['response']+'</p></div>');\n				}\n			},\n			error: function(data) {\n				console.log(\"Error Saving Team \"+data);\n			}\n		}).fail(function( jqXHR, textStatus ) { alert( \"Error making Request \"+textStatus ); });\n\n				\n	}\n}\n\njQuery( document ).ready(function( $ ) {\n\n	if($('#tm_eventsCal').length > 0 ) {\n		var calendar = new TeamManagerCalendar();\n		calendar.init();\n	}	\n	if($('#tm_teamsPlace').length > 0 ) {\n		var theTeams = new TeamManagerTeam();\n		theTeams.init();\n	}\n    // -- Might be better somewhere else???\n	$('#defaultMessageClose').click(function() {\n		$('.defaultMessage').fadeOut('fast');\n	});\n\n});\n\n\n\n\n",
+			"file": "js/TeamManager.js",
+			"file_size": 35263,
+			"file_write_time": 130456400312372967,
+			"settings":
+			{
+				"buffer_size": 34513,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/TeamManager.css",
+			"settings":
+			{
+				"buffer_size": 3251,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "TeamManager_Ajax.php",
+			"settings":
+			{
+				"buffer_size": 3687,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "TeamManager_Member.php",
+			"settings":
+			{
+				"buffer_size": 3003,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Will/Desktop/test.php",
+		"/C/Users/Will/Desktop/delete.html",
+		"/C/Users/Will/Dropbox/incite/projects/001 - buyalbertaland/2014-06-02 - updates/.htaccess",
+		"/C/wamp/www/wordpress35/wp-trackback.php",
+		"/C/wamp/www/wordpress35/wp-admin/themes.php",
+		"/C/wamp/www/wordpress35/wp-admin/theme-install.php",
+		"/C/wamp/www/wordpress35/wp-admin/press-this.php",
+		"/C/wamp/www/wordpress35/wp-admin/css/press-this.css",
+		"/C/wamp/www/wordpress35/wp-content/plugins/paid-memberships-pro/classes/gateways/class.pmprogateway_authorizenet.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/leaguemanager/templates/archive-tennis.php",
+		"/C/wamp/www/wordpress35/wp-includes/nav-menu-template.php",
+		"/C/wamp/www/wordpress35/wp-includes/js/autosave.js",
+		"/C/wamp/www/wordpress35/wp-content/plugins/theme-my-login/modules/security/admin/security-admin.php",
+		"/C/wamp/www/wordpress35/wp-settings.php",
+		"/C/wamp/www/wordpress35/wp-admin/edit.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/paid-memberships-pro/includes/lib/Stripe/Stripe/Event.php",
+		"/C/wamp/www/wordpress35/wp-activate.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/paid-memberships-pro/includes/lib/Braintree/Braintree/Transaction/AddressDetails.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/paid-memberships-pro/adminpages/addons.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/leaguemanager/admin/tinymce/langs/de_DE.js",
+		"/C/wamp/www/wordpress35/wp-admin/edit-form-advanced.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/paid-memberships-pro/adminpages/addons/pmpro-level-cost-text.php",
+		"/C/wamp/www/wordpress35/wp-admin/includes/nav-menu.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/TeamManager.sublime-project",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/TeamManager.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/leaguemanager/admin/team.php",
+		"/C/wamp/www/wordpress35/wp-admin/theme-editor.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/TeamManager_Event.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/TeamManager_Team.php",
+		"/C/wamp/www/wordpress35/wp-content/themes/wordpress-bootstrap-master/library/less/variables.less",
+		"/C/wamp/www/wordpress35/wp-content/themes/wordpress-bootstrap-master/library/css/bootstrap.css",
+		"/C/wamp/www/wordpress35/wp-content/themes/wordpress-bootstrap-master/library/less/bootstrap.less",
+		"/C/wamp/www/wordpress35/wp-content/themes/wordpress-bootstrap-master/library/less/combobox.less",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/js/bootstrap-combobox.js",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/TeamManager_Ajax.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/css/TeamManager.css",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/js/TeamManager.js",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/TeamManager_Member.php",
+		"/C/wamp/www/wordpress35/wp-mail.php",
+		"/C/wamp/www/wordpress35/wp-admin/ms-options.php",
+		"/C/wamp/www/wordpress35/wp-admin/moderation.php",
+		"/C/wamp/www/wordpress35/wp-content/themes/wordpress-bootstrap-haley/library/js/modal.js",
+		"/C/Users/Will/Dropbox/incite/Projects/001 - BuyAlbertaLand/ezrealty download/Full BUP/administrator/components/com_ezrealty/includes/keyserver.php",
+		"/C/idezender/Decoded/keyserver.php",
+		"/C/idezender/Encoded/admin.ezrealty-bup.php",
+		"/C/idezender/Decoded/admin.ezrealty-bup.php",
+		"/C/Users/Will/Dropbox/incite/Projects/001 - BuyAlbertaLand/ezrealty download/Full BUP/administrator/components/com_ezrealty/admin.ezrealty.php",
+		"/C/idezender/Decoded/admin.ezrealty.php",
+		"/C/Users/Will/Dropbox/incite/Projects/001 - BuyAlbertaLand/ezrealty download/admin/license.php",
+		"/C/Users/Will/Dropbox/incite/Projects/001 - BuyAlbertaLand/ezrealty download/Full BUP/administrator/components/com_ezrealty/admin.ezrealty.html.php",
+		"/C/Users/Will/Dropbox/incite/Projects/001 - buyalbertaland/ezrealty download/admin/includes/class.ezrealty.php",
+		"/C/Users/Will/Dropbox/incite/Projects/001 - BuyAlbertaLand/ezrealty download/com_ezrealty/language/english.php",
+		"/C/Users/Will/Dropbox/incite/projects/001 - buyalbertaland/ezrealty download/com_ezrealty/ezrealty.html.php",
+		"/C/Users/Will/Dropbox/incite/Projects/001 - buyalbertaland/ezrealty download/com_ezrealty/ezrealty.php",
+		"/C/wamp/www/wordpress35/wp-content/themes/wordpress-bootstrap-master/page-full-width.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/HockeyMan.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/HockeyManGame.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/HockeyManPlayer.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/TeamManager_Constants.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/HockeyManAjax.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/teamManager/TeamManager_Email.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/js/HockeyManUI.js",
+		"/C/wamp/www/wordpress35/wp-content/themes/wordpress-bootstrap-master/library/css/theme.css",
+		"/C/wamp/www/wordpress35/wp-content/themes/wordpress-bootstrap-master/functions.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/pmpro-register-helper/pmpro-register-helper.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/paid-memberships-pro/paid-memberships-pro.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/css/HockeyMan.css",
+		"/C/Users/Will/Desktop/index.html",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/js/HockeyMan.js",
+		"/C/Users/Will/Dropbox/incite/Projects/021 - ubc aqua soc/001 - web files/Function theme/custom.css",
+		"/C/Users/Will/Desktop/New folder/fblinkcontentimage.php",
+		"/C/Users/Will/Desktop/New folder/form/fields/pweb.php",
+		"/C/Users/Will/Desktop/New folder/form/fields/pwebversion.php",
+		"/C/wamp/www/wordpress35/wp-content/themes/wordpress-bootstrap-master/header.php",
+		"/C/wamp/www/wordpress35/wp-config.php",
+		"/C/Users/Will/Dropbox/incite/Projects/005 - Pedero.com/002 - 2014-03-03 Remove Darryl/about.html",
+		"/C/Users/Will/Dropbox/incite/Projects/005 - pedero.com/002 - 2014-03-03 remove darryl/contact.html",
+		"/C/Users/Will/Dropbox/incite/apps/hockeyscheduler/temppage/index.html",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/js/TimePicker.js",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/HockeyManEmail.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/HockeyManConstants.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/email_lite.html",
+		"/C/Users/Will/Desktop/wp-config.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/email.html",
+		"/C/Users/Will/Desktop/StealthRChiliStyles/StealthRChiliStyles/MusicApp/views.py",
+		"/C/Users/Will/Desktop/StealthRChiliStyles/StealthRChiliStyles/MusicApp/LocalAudio/audiobuilder.py",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/hockeyMan-admin.php",
+		"/C/Users/Will/Desktop/mpd-0.17.4-win32/bin/mpd.conf",
+		"/C/Users/Will/Desktop/auzy-masterv0.04/auzy/urls.py",
+		"/C/Users/Will/Desktop/auzy-masterv0.04/templates/auzy2.html",
+		"/C/Users/Will/Desktop/auzy-masterv0.04/templates/auzy.html",
+		"/C/Users/Will/Desktop/test.html",
+		"/C/Users/Will/Desktop/auzy-masterv0.04/auzy/settings.py",
+		"/C/Users/Will/AppData/Local/Temp/7zE1B8B.tmp/settings.py",
+		"/C/Users/Will/Desktop/functions.php",
+		"/C/Users/Will/Desktop/autoTwitterFollow.js",
+		"/C/Users/Will/Dropbox/Hitachi/huh.bmp",
+		"/C/Users/Will/Dropbox/incite/Projects/021 - UBC Aqua Soc/001 - Web Files/featured-slider.js",
+		"/C/Users/Will/Dropbox/incite/Projects/017 - KenHutchinsonArt.com/003 - size and price updates/index.html",
+		"/C/Users/Will/Dropbox/incite/Projects/017 - KenHutchinsonArt.com/003 - size and price updates/style.css",
+		"/C/wamp/www/wordpress/wp-config.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/user-timezone.php",
+		"/C/wamp/www/parallax/index.html",
+		"/C/wamp/www/parallax/style.css",
+		"/C/wamp/www/bal/wp-content/plugins/import_ezrealty.php",
+		"/C/wamp/www/parallax/scripts/jquery.inview.js",
+		"/C/wamp/www/parallax/scripts/nbw-parallax.js",
+		"/C/Users/Will/Dropbox/School/COMP 2521/FowlerWill-TriggersAndStoredProcedures.sql",
+		"/C/Users/Will/Desktop/recaptcha.php",
+		"/C/wamp/www/parallax/scripts/jquery.localscroll-1.2.7-min.js",
+		"/C/wamp/www/wordpress35/wp-content/plugins/leaguemanager/admin/admin.php",
+		"/C/Users/Will/Dropbox/incite/Projects/017 - KenHutchinsonArt.com/002 - Gallery Update/index.html",
+		"/C/Users/Will/Documents/albertaHockeyRinkLocations.csv",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/hockeyMan-addPlayer.php",
+		"/C/Users/Will/Dropbox/incite/Projects/017 - KenHutchinsonArt.com/002 - Gallery Update/css/style.css",
+		"/C/Users/Will/Dropbox/School/COMP 2503/FowlerWill-COMP2503-Assignment04/ConvertSaveExample.xml",
+		"/C/wamp/www/wordpress35/wp-content/plugins/leaguemanager/lib/core.php",
+		"/C/wamp/www/brz/beta/projects.htm",
+		"/C/wamp/www/brz/beta/projects-com.html",
+		"/C/wamp/www/brz/beta/projects-community.html",
+		"/C/wamp/www/brz/beta/projects-edu.html",
+		"/C/wamp/www/brz/beta/projects-hou.html",
+		"/C/wamp/www/brz/beta/projects-pro.html",
+		"/C/wamp/www/brz/beta/projects-rec.html",
+		"/C/wamp/www/bal/wp-content/themes/bal/jos_ezrealty.sql",
+		"/C/wamp/www/bal/wp-content/themes/bal/import.php",
+		"/C/wamp/www/wordpress35/wp-content/plugins/hockeyMan/hockeyMan.php",
+		"/C/wamp/www/brz/beta/r-hank.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\wordpress35\\wp-content\\plugins\\paid-memberships-pro\\",
+			"TeamManager.js,C:\\wamp\\www\\wordpress35\\wp-content\\plugins\\paid-memberships-pro",
+			"TeamManager.js",
+			"",
+			"<open folders>",
+			"C:\\wamp\\www\\wordpress35,<open folders>",
+			"C:\\wamp\\www\\wordpress35",
+			"C:\\Users\\Will\\Desktop\\New folder\\form\\fields",
+			"C:\\Users\\Will\\Desktop\\New folder\\",
+			"C:\\Users\\Will\\Desktop\\New folder",
+			"C:\\wamp\\www\\wordpress35\\wp-content\\plugins\\hockeyMan",
+			"C:\\wamp\\www\\wordpress35\\",
+			"C:\\wamp\\www\\wordpress35\\wp-content\\plugins\\hockeyMan\\",
+			"C:\\wamp\\www\\wordpress35\\wp-content\\plugins\\leaguemanager\\",
+			"C:\\wamp\\www\\wordpress35\\",
+			"C:\\wamp\\www\\wordpress35\\wp-content\\themes",
+			"C:\\wamp\\www\\uppercutdl\\",
+			"C:\\wamp\\www\\wordpress35\\wp-content\\themes\\incite",
+			"arch/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'#'+teamId",
+			"saveTeam",
+			"settings",
+			"InvitationDelay",
+			"$this->save();",
+			"teamName",
+			"teamname",
+			",",
+			"add_event",
+			"saveTeam",
+			"NOT IN()",
+			"WHERE page_id NOT IN()",
+			"SELECT page_id FROM wp35_pmpro_memberships_pages WHERE page_id NOT IN()",
+			"theId",
+			"save",
+			"+', '+",
+			"find",
+			"children",
+			"');\n",
+			"saveTeam",
+			"16",
+			"</small></h3>",
+			"<h3><small>",
+			"text-right",
+			"invitation",
+			"formatJustTime",
+			"aja",
+			"dropdown-toggle",
+			"event",
+			"row",
+			"();\n",
+			".modal(",
+			"max",
+			"summaryDelay",
+			"invitation",
+			"timezoneRow",
+			"name",
+			"max",
+			"Max",
+			"max",
+			"summaryDelay",
+			"invitationDelay",
+			"timezone",
+			"Timezone",
+			"timezone",
+			"Timezone",
+			"timezone",
+			"name",
+			"Label",
+			"inst.buildModal",
+			".buildButton.buildButton",
+			"buildbu",
+			"buildButton.buildButton.",
+			"TeamManagerCommon",
+			"TeamManagerCommon.buildButton",
+			"inst.buildButton",
+			"this.buildbu",
+			"}\n",
+			"this.buildbutton",
+			"h4",
+			"In",
+			"formatJustDate",
+			"attendees",
+			"notesLabel",
+			"viewEvent",
+			"26px",
+			"notesValue",
+			"dateValue",
+			"dateLabel",
+			"dateValue",
+			"dateLabel",
+			"timeValue",
+			"timeLabel",
+			"add",
+			"eventId",
+			"getEvents",
+			"eventsList",
+			"lname",
+			"description",
+			"lname",
+			"getMemberObjects",
+			"Var_2904",
+			"license",
+			"ez_license",
+			"savekey",
+			"curl",
+			"$_REQUEST['tmpl']",
+			"ez_license",
+			"license.php\"",
+			"JController",
+			"savekey",
+			"_EZREALTY_LICENSE_ERROR",
+			"ez_license",
+			"license",
+			"col-md-off",
+			"Calendar",
+			"calendar",
+			"panel",
+			"team",
+			"getshort",
+			"today",
+			"beginningOfTomorrow",
+			"teams[id].events",
+			"this",
+			"member",
+			"memberId",
+			"members",
+			"memArray",
+			"getEvents",
+			"getScriptTeamEvents",
+			"MAX_TOTAL_MEMBERS",
+			"$this->members",
+			"teamid",
+			"game",
+			"addGame",
+			"hour",
+			"MAX_TOTAL_PLAYERS",
+			"minute",
+			"hour",
+			"day",
+			"month",
+			"year",
+			"minuteInput",
+			"buildB",
+			"locationInput",
+			"am",
+			"amInput",
+			"amLabel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"common.buildModal",
+			".buildButton",
+			"common.buildButton",
+			"TeamManagerCommon.buildButton",
+			"src=\"images",
+			"span"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/TeamManager.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34511,
+								34511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 815.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/TeamManager.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3251,
+								3251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/TeamManager.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23428,
+								23428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14657.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "TeamManager_Ajax.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1802,
+								1802
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "TeamManager_Member.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.742848447961,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "TeamManager.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"teammanager.j",
+				"wp-content\\plugins\\teamManager\\js\\TeamManager.js"
+			],
+			[
+				"",
+				"wp-content\\plugins\\teamManager\\js\\TeamManager.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
